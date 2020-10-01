@@ -1,0 +1,1 @@
+# My First blog in Django application
